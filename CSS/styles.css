@@ -37,7 +37,7 @@ a{
       var(--primary),
       var(--secondary)
     ),
-    url(/Images/kids.jpg);
+    url(../Images/kids.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -224,7 +224,7 @@ img.logo:hover {
   height: 750px;
   margin: 0;
   display: flex;
-  background-image: url(/Images/map.PNG);
+  background-image: url(../Images/map.PNG);
 }
 .content {
   width: 43%;
