@@ -224,7 +224,7 @@ img.logo:hover {
   height: 750px;
   margin: 0;
   display: flex;
-  background-image: url(../Images/map.PNG);
+  background-image: url(./Images/map.PNG);
 }
 .content {
   width: 43%;
